@@ -6,3 +6,4 @@
 - [FOSS4G 2023 (Academic Track): COMTiles: a case study of a cloud optimized tile archive format for deploying planet-scale tilesets in the cloud](./FOSS4G_2023)  
 - [Bayerwald Hackathon 2023: Using WebAssembly and WebGPU to build the next generation of data-intensive applications in the browser](./Bayerwald_Hackathon_2023) 
 - [FOSS4G Europe 2024: MapLibre Tiles: Introducing The Next Generation Vector Tiles Format](./FOSS4G_2024_Europe) 
+- [State of the Map 2024: MapLibre Tiles: A Next Generation Vector Tiles Format specially designed for OSM data](./SotM_2024) 
